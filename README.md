@@ -6,11 +6,11 @@ The code save the student chat id in a sqlite3 database to give the ability to s
 All students memeber of channel username have access to teachers and every time they ask a question we should check if they are member or not.
 
 <p style="font-size: 25px;font-weight: 300;">Dependecies:</p>
-<div style="margin-left: 20px;;">
-	<p>pytelegrambotapi</p>
-	<p>telethon</p>
-	<p>sqlite3</p>
-	<p>asyncio--> this library is for python new versions</p>
+<div style="margin-left: 20px;">
+	<p>------>pytelegrambotapi</p>
+	<p>------>telethon</p>
+	<p>------>sqlite3</p>
+	<p>------>asyncio--> this library is for python new versions</p>
 </div>
 
 
