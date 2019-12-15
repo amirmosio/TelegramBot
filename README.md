@@ -6,10 +6,9 @@ The code save the student chat id in a sqlite3 database to give the ability to s
 All students memeber of <channel username> have access to teachers and every time they ask a question we should check if they are member or not.
 
 <p>Dependecies:</p>
-<br>
-	<p>pytelegrambotapi</p><br>
-	<p>telethon</p><br>
-	<p>sqlite3</p><br>
+	<p>pytelegrambotapi</p>
+	<p>telethon</p>
+	<p>sqlite3</p>
 	<p>asyncio--> this library is for python new versions</p><br>
 
 I use two diffrent things that telegram gave us.
