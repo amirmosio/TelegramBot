@@ -5,11 +5,13 @@ This code is an easy telegram chat bot that give message from students and send 
 The code save the student chat id in a sqlite3 database to give the ability to send a message to all student.
 All students memeber of <channel username> have access to teachers and every time they ask a question we should check if they are member or not.
 
-<p>Dependecies:</p>
+<p style="font-size:30px;">Dependecies:</p>
+<div>
 	<p>pytelegrambotapi</p>
 	<p>telethon</p>
 	<p>sqlite3</p>
-	<p>asyncio--> this library is for python new versions</p><br>
+	<p>asyncio--> this library is for python new versions</p>
+</div>
 
 I use two diffrent things that telegram gave us.
 First part of this code used pytelegrambotapi to create a bot and used polling to get new updates.
