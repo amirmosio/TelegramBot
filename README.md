@@ -1,15 +1,16 @@
-<p>Telegram Bot Using PyTelegramBotAPI and TelegramClient<p>
+<p>Telegram Bot Using PyTelegramBotAPI and TelegramClient</p>
 
 
 This code is an easy telegram chat bot that give message from students and send them to the related teacher then teachers can send their answers.
 The code save the student chat id in a sqlite3 database to give the ability to send a message to all student.
 All students memeber of <channel username> have access to teachers and every time they ask a question we should check if they are member or not.
 
-Dependecies:
-	pytelegrambotapi
-	telethon
-	sqlite3
-	asyncio--> this library is for python new versions
+<p>Dependecies:</p>
+<br>
+	<p>pytelegrambotapi</p><br>
+	<p>telethon</p><br>
+	<p>sqlite3</p><br>
+	<p>asyncio--> this library is for python new versions</p><br>
 
 I use two diffrent things that telegram gave us.
 First part of this code used pytelegrambotapi to create a bot and used polling to get new updates.
