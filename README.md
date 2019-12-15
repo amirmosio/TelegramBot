@@ -7,10 +7,10 @@ All students memeber of channel username have access to teachers and every time 
 
 <p>Dependecies:</p>
 <div>
-	<p>pytelegrambotapi</p>
-	<p>telethon</p>
-	<p>sqlite3</p>
-	<p>asyncio--> this library is for python new versions</p>
+	<p>          pytelegrambotapi</p>
+	<p>          telethon</p>
+	<p>          sqlite3</p>
+	<p>          asyncio--> this library is for python new versions</p>
 </div>
 
 
